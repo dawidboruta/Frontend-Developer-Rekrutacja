@@ -3,7 +3,7 @@
 # React Developer - Rekrutacja
 
 ## Zadanie
-Twoim zadaniem jest stworzenie aplikacji SPA do zarządzania urzytkownikami oraz ich postami.
+Twoim zadaniem jest stworzenie aplikacji SPA do zarządzania użytkownikami oraz ich postami.
 
 ## Zalecany stack technologiczny:
 * API: [API DOCS](https://jsonplaceholder.typicode.com/)
