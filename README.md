@@ -42,8 +42,7 @@ Twoim zadaniem jest stworzenie aplikacji SPA do zarządzania użytkownikami oraz
 
 ## Mile widziane:
 1. Czysty kod (linters, prettier)
-2. Redux-saga
-3. Testy
+2. Testy
 
 ## Na co będziemy zwracali szczególną uwagę:
 1. Jak wygląda podział kodu na komponenty.
